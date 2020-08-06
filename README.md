@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Zidane
 
 <!--
 **zidanefst/zidanefst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Zidane. I am a front-end web developer with experience in implementing responsive design and making websites that drive business growth and are as appealing as possible. I also have a great interest in usability.
+I am a front-end web developer with experience in implementing responsive design and making websites that drive business growth and are as appealing as possible. I also have a great interest in usability.
 
 - I’m currently working on some projects that target self-improvement.
 - I’m currently learning React.
