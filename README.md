@@ -11,4 +11,4 @@ I am a front-end web developer with experience in implementing responsive design
 - I’m currently working on some projects that target self-improvement.
 - I’m currently learning React.
 - Ask me about anything on my social media.
-- How to reach me: instagram/zidanefst
+- How to reach me: instagram.com/zidanefst
