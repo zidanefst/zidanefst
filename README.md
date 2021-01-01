@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I am a front-end web developer with experience in implementing responsive design and making websites that drive business growth and are as appealing as possible. I also have a great interest in usability.
+I am a frontend web developer with experience in implementing responsive design and making websites that drive business growth and are as appealing as possible. I also have a great interest in usability.
 
 - I’m currently working on some projects that target self-improvement.
 - I’m currently learning React.
