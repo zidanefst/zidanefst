@@ -11,4 +11,4 @@ I am a frontend web developer with experience in implementing responsive design 
 - I’m currently working on some projects that target self-improvement.
 - I’m currently learning React.
 - Ask me about anything on my social media.
-- How to reach me: send me an email, go through [Link to Portfolio](https://www.zidanefst.com) or use [Link to Instagram](https://www.instagram.com/zidanefst).
+- How to reach me: send me an email, go through [my website](https://www.zidanefst.com) or use [Instagram](https://www.instagram.com/zidanefst).
