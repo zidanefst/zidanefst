@@ -1,8 +1,8 @@
 # Zidane 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Zidanefst)](https://github.com/zidanefst)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidanefst)](https://www.linkedin.com/in/zidanefst)
-[![Email Badge](https://img.shields.io/static/v1?label=Email&message=zidanefst@gmail.com&color=8b89cc&logo=protonmail&cacheSeconds=3600&link=mailto:zidanefst@gmail.com)](mailto:zidanefst@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ValentinMitran.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zidanefst)
+[![Email Badge](https://img.shields.io/badge/-Email-4d0087?style=for-the-badge&logo=protonmail&cacheSeconds=3600&link=mailto:zidanefst@gmail.com)](mailto:zidanefst@gmail.com)
 
 ### Hi there 👋
 
@@ -11,4 +11,4 @@ I am a frontend web developer with experience in implementing responsive design 
 - I’m currently working on some projects that target self-improvement.
 - I’m currently learning React.
 - Ask me about anything on my social media.
-- How to reach me: instagram.com/zidanefst
+- How to reach me: send me an email, go through [Link to Portfolio](https://www.zidanefst.com) or use [Link to Instagram](https://www.instagram.com/zidanefst).
