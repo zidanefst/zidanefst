@@ -1,6 +1,6 @@
 # Zidane 👨‍💻
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ValentinMitran.com/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.zidanefst.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zidanefst)
 [![Email Badge](https://img.shields.io/badge/-Email-4d0087?style=for-the-badge&logo=protonmail&cacheSeconds=3600&link=mailto:zidanefst@gmail.com)](mailto:zidanefst@gmail.com)
 
